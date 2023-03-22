@@ -1,0 +1,22 @@
+Data types in SQL
+1).Binary
+2).Date and Time
+3).Numbers
+4).Text=char and varchar
+5).Boolean=True and False
+6).NULL= represents nothing. different than 0, false and no.
+MATHS IN SQL
+Select statement
+assumes integers 
+arithemtaic and logical operators supported.
+average=avg()
+lower an upper function for lowercase and uppercase
+substring,SUBSTR()=for bisection of strings/slicing
+REPLACE= replace a string
+cast= typecasting
+as function: to rename a feild/column instead of the function used on a particular column in a spreadsheet.
+INSERT 
+insert into tablename(attributes) values(the values);
+write changes=saves the changes
+revert changes= undo
+UPDATE=
